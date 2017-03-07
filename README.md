@@ -7,4 +7,5 @@
 > Use mongod -- sets up a local mongo server
 > To change owndership -- sudo chown -Rv username /data/db
 > To start run mongod in the terminal
+> To shut down type [ps wuax | grep mongo] (tells you which instances are running) then type [kill version#] to kill that instance
 > Robomongo download the software for Mac for GUI
